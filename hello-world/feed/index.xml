@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for Naireative	</title>
-	<atom:link href="https://naireative.github.io/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://naireative.github.io</link>
+	Comments on: Hello world!	</title>
+	<atom:link href="https://naireative.github.io/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://naireative.github.io/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Thu, 15 Apr 2021 20:38:04 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=5.7.1</generator>
 	<item>
 		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
+		By: A WordPress Commenter		</title>
 		<link>https://naireative.github.io/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
